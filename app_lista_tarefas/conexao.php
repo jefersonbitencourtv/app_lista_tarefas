@@ -1,6 +1,6 @@
 <?php
 
-class Conexao{
+class Conexao {
 	private $host = 'localhost';
 	private $dbname = 'php_com_pdo';
 	private $user = 'root';
